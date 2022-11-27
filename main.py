@@ -9,6 +9,8 @@ while (True):
         numbers.remove(delval)
     except:
         break
+        
+        
 
 # ******************************
 
